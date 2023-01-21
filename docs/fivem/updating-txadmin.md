@@ -11,4 +11,4 @@ sidebar_position: 2
 2. Put the copied in startup in the version field and reinstall in settings for the update to apply.
 
 <img src="https://docs.pihosting.cloud/uploads/images/gallery/2023-01/scaled-1680-/screenshot-2023-01-18-195307.png" alt="Startup Tab" width="100"/>
-<img src="https://screenshot.gq/Q7So" alt="FiveM version field" width="500"/>
+<img src="https://screenshot.gq/moXs" alt="FiveM version field" width="500"/>

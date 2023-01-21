@@ -6,9 +6,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'PiHosting',
-  tagline: 'Documentation',
-  url: 'https://your-docusaurus-test-site.com',
+  title: 'PiHosting Documentation',
+  tagline: 'Free hosting for everyone!',
+  url: 'https://bestrazer.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -18,6 +18,7 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'bestrazer', // Usually your GitHub org/user name.
   projectName: 'pihosting-docs', // Usually your repo name.
+  deploymentBranch: 'gh-pages',
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
