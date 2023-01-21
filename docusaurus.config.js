@@ -67,9 +67,9 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Getting started',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          
           {
             href: 'https://github.com/BestRazer/pihosting-docs',
             label: 'GitHub',
@@ -101,10 +101,6 @@ const config = {
           {
             title: 'More',
             items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
               {
                 label: 'GitHub',
                 href: 'https://github.com/BestRazer/pihosting-docs',
