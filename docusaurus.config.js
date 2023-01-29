@@ -72,7 +72,7 @@ const config = {
           },
           
           {
-            href: 'https://github.com/BestRazer/pihosting-docs',
+            href: 'https://github.com/pihosting-cloud/docs',
             label: 'GitHub',
             position: 'right',
           },
@@ -104,7 +104,7 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/BestRazer/pihosting-docs',
+                href: 'https://github.com/pihosting-cloud/docs',
               },
             ],
           },
