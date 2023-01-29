@@ -2,7 +2,9 @@
 sidebar_position: 1
 ---
 
-# How to set up a FiveM-Server
+
+# How to set up a FiveM-Server With TXAdmin
+
 
 1. Register on our client panel at [https://client.pihosting.cloud/](https://client.pihosting.cloud/)
 2. Verify your Discord account at [https://client.pihosting.cloud/profile](https://client.pihosting.cloud/profile)
@@ -49,3 +51,6 @@ sidebar_position: 1
 15. Go back to "Console" and start the server. Follow the instructions in the console.
 
 <img src="https://docs.pihosting.cloud/uploads/images/gallery/2023-01/scaled-1680-/console.png" alt="Console tab" width="100"/>
+
+16. Head over to the cfg editor on txadmin and make sure your endpoint is set to 0.0.0.0:[yourPrimaryPort]
+If it's not then set it like that (you can find your primary port in the network tab on the panel

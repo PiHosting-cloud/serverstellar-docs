@@ -1,0 +1,8 @@
+{
+  "label": "Server recovery",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "In case you had a server before our main database got corrupted, here's how to restore it."
+  }
+}
