@@ -4,11 +4,23 @@ sidebar_position: 2
 
 # Updating TxAdmin
 
-1. Right click on the latest available build here [https://runtime.fivem.net/artifacts/fivem/build_proot_linux/master/](https://runtime.fivem.net/artifacts/fivem/build_proot_linux/master/), press copy link and paste it somewhere (notepad for example).
+1. Delete your current alpine which is located in your Panel>Files.
 
-<img src="https://docs.pihosting.cloud/uploads/images/gallery/2023-01/scaled-1680-/screenshot-2023-01-18-195800.png" alt="Copy link" width="300"/>
+<img src="https://i.imgur.com/bltrzwJ.png" alt="Delete Alpine" width="100"/>
 
-2. Put the copied in startup in the version field and reinstall in settings for the update to apply.
+2. Go to your server Startup page in Server Panel
 
-<img src="https://docs.pihosting.cloud/uploads/images/gallery/2023-01/scaled-1680-/screenshot-2023-01-18-195307.png" alt="Startup Tab" width="100"/>
-<img src="https://screenshot.gq/moXs" alt="FiveM version field" width="500"/>
+3. Copy this link and paste in Download Link [https://runtime.fivem.net/artifacts/fivem/build_proot_linux/master/6283-ca013e4bd9d81c11af02d592596349c550bf82b2/fx.tar.xz](https://runtime.fivem.net/artifacts/fivem/build_proot_linux/master/6283-ca013e4bd9d81c11af02d592596349c550bf82b2/fx.tar.xz)
+
+<img src="https://i.imgur.com/cxiKzg5.png" alt="Download Link" width="300"/>
+
+4. Put the copied in startup in the version field and reinstall in settings for the update to apply.
+
+<img src="https://i.imgur.com/IYIdFpA.png" alt="Fivem Version" width="500"/>
+
+5. Your startup page should look like this
+   <img src="https://i.imgur.com/xql5PNE.png" alt="Startup Page" width="100"/>
+
+6. Head over to your settings page in your panel and Reinstall your server by clicking reinstall and wait for it to complete. After the reinstall is complete, start your server❗
+
+<img src="https://i.imgur.com/rO9IkkS.png" alt="Reinstall" width="500"/>
