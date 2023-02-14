@@ -8,18 +8,19 @@ sidebar_position: 2
 
 <img src="https://i.imgur.com/bltrzwJ.png" alt="Delete Alpine" width="500"/>
 
-2. Go to your server Startup page in Server Panel
+2. Go to your server Startup page in your Server Panel
 
 3. Copy this link and paste in Download Link [https://runtime.fivem.net/artifacts/fivem/build_proot_linux/master/6283-ca013e4bd9d81c11af02d592596349c550bf82b2/fx.tar.xz](https://runtime.fivem.net/artifacts/fivem/build_proot_linux/master/6283-ca013e4bd9d81c11af02d592596349c550bf82b2/fx.tar.xz)
 
-<img src="https://i.imgur.com/cxiKzg5.png" alt="Download Link" width="300"/>
+<img src="https://i.imgur.com/cxiKzg5.png" alt="Download Link" width="500"/>
 
 4. Put the copied in startup in the version field and reinstall in settings for the update to apply.
 
 <img src="https://i.imgur.com/IYIdFpA.png" alt="Fivem Version" width="500"/>
 
-5. Your startup page should look like this
-   <img src="https://i.imgur.com/xql5PNE.png" alt="Startup Page" width="100"/>
+5. Your startup page should look like this:
+
+<img src="https://i.imgur.com/xql5PNE.png" alt="Startup Page" width="500"/>
 
 6. Head over to your settings page in your panel and Reinstall your server by clicking reinstall and wait for it to complete. After the reinstall is complete, start your server❗
 
