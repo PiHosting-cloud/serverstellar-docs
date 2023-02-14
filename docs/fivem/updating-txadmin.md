@@ -6,7 +6,7 @@ sidebar_position: 2
 
 1. Delete your current alpine which is located in your Panel>Files.
 
-<img src="https://i.imgur.com/bltrzwJ.png" alt="Delete Alpine" width="100"/>
+<img src="https://i.imgur.com/bltrzwJ.png" alt="Delete Alpine" width="500"/>
 
 2. Go to your server Startup page in Server Panel
 
