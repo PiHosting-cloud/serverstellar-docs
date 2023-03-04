@@ -20,6 +20,11 @@ function HomepageHeader() {
             to="/docs/intro">
             Get Started
           </Link>
+          <Link
+            className="button button--secondary button--lg"
+            to="/blog/why-we-are-closing-pihosting">
+            Why we are closing PiHosting
+          </Link>
         </div>
       </div>
     </header>
