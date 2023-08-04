@@ -10,11 +10,11 @@ Let's get you set up with our **free hosting**!
 
 Get started by **visiting our client panel**.
 
-You can **find it** at **[client.ServerStellar.cloud](https://panel.serverstellar.com)**.
+You can **find it** at **[panel.serverstellar.com](https://panel.serverstellar.com)**.
 
 ### Create an account
 
-You can create an account at [client.ServerStellar.cloud/register](https://panel.serverstellar.com/register)!
+You can create an account at [panel.serverstellar.com/register](https://panel.serverstellar.com/register)!
 
 ## Create a server
 
