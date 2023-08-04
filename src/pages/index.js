@@ -22,8 +22,8 @@ function HomepageHeader() {
           </Link>
           <Link
             className="button button--secondary button--lg"
-            to="/blog/why-we-are-closing-pihosting">
-            Why we are closing PiHosting
+            to="/blog/why-we-are-closing-ServerStellar">
+            Why we are closing ServerStellar
           </Link>
         </div>
       </div>

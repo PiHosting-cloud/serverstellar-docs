@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Getting started with PiHosting
+# Getting started with ServerStellar
 
 Let's get you set up with our **free hosting**!
 
@@ -10,15 +10,15 @@ Let's get you set up with our **free hosting**!
 
 Get started by **visiting our client panel**.
 
-You can **find it** at **[client.pihosting.cloud](https://client.pihosting.cloud)**.
+You can **find it** at **[client.ServerStellar.cloud](https://panel.serverstellar.com)**.
 
 ### Create an account
 
-You can create an account at [client.pihosting.cloud/register](https://client.pihosting.cloud/register)!
+You can create an account at [client.ServerStellar.cloud/register](https://panel.serverstellar.com/register)!
 
 ## Create a server
 
-After you created your account, **you can now start creating your server** by going to [client.pihosting.cloud/servers](https://client.pihosting.cloud/servers)!
+After you created your account, **you can now start creating your server** by going to [https://panel.serverstellar.com/servers](https://panel.serverstellar.com/servers)!
 
 ![Creating a server](https://screenshot.gq/yFBp.png)
 

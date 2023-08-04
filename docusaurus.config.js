@@ -6,9 +6,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'PiHosting Documentation',
+  title: 'ServerStellar Documentation',
   tagline: 'Free hosting for everyone!',
-  url: 'https://bestrazer.github.io',
+  url: 'https://docs.serverstellar.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -16,8 +16,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'bestrazer', // Usually your GitHub org/user name.
-  projectName: 'pihosting-docs', // Usually your repo name.
+  organizationName: 'ServerStellar-cloud', // Usually your GitHub org/user name.
+  projectName: 'serverstellar-docs', // Usually your repo name.
   deploymentBranch: 'gh-pages',
 
   // Even if you don't use internalization, you can use this field to set useful
@@ -58,7 +58,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'PiHosting',
+        title: 'ServerStellar',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.png',
@@ -72,7 +72,7 @@ const config = {
           },
           
           {
-            href: 'https://github.com/pihosting-cloud/docs',
+            href: 'https://github.com/ServerStellar-cloud/serverstellar-docs',
             label: 'GitHub',
             position: 'right',
           },
@@ -95,7 +95,7 @@ const config = {
             items: [
               {
                 label: 'Discord',
-                href: 'https://discord.gg/deltahosting-cloud-c-921475774161252352',
+                href: 'https://discord.gg/Q2uMFWSESD',
               },
             ],
           },
@@ -104,12 +104,12 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/pihosting-cloud/docs',
+                href: 'https://github.com/ServerStellar-cloud/serverstellar-docs',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} PiHosting Docs, Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} ServerStellar Docs, Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
