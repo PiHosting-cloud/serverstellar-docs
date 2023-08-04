@@ -61,7 +61,7 @@ const config = {
         title: 'ServerStellar',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/slogo.png',
+          src: 'img/slogomini.png',
         },
         items: [
           {
