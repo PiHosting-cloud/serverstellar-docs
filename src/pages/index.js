@@ -20,11 +20,6 @@ function HomepageHeader() {
             to="/docs/intro">
             Get Started
           </Link>
-          <Link
-            className="button button--secondary button--lg"
-            to="/blog/why-we-are-closing-ServerStellar">
-            Why we are closing ServerStellar
-          </Link>
         </div>
       </div>
     </header>

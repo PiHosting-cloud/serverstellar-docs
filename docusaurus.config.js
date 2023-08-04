@@ -104,7 +104,7 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/ServerStellar-cloud/serverstellar-docs',
+                href: 'https://github.com/pihosting-cloud/serverstellar-docs',
               },
             ],
           },
