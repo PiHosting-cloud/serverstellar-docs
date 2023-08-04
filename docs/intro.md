@@ -20,8 +20,6 @@ You can create an account at [panel.serverstellar.com/register](https://panel.se
 
 After you created your account, **you can now start creating your server** by going to [https://panel.serverstellar.com/servers](https://panel.serverstellar.com/servers)!
 
-![Creating a server](https://screenshot.gq/yFBp.png)
-
 ## Go to the server panel
 
 On the servers page, click on Manage and **log in** using the same details as you previously entered at registration.
